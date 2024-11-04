@@ -1,11 +1,10 @@
 /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
 
-README Tomassito V 0.9
+README Proyecto Internet de las Cosas V 0.9
 
-El proyecto de RobotCar Tomassito es un desarrollo de "Laboratorio de Innovación Aplicada" del área de informática
+El proyecto de IOT  es un desarrollo de "Laboratorio de la asignatura Internet de las cosas" del área de informática
 del Instituto profesional Santo Tomás sede San Joaquín.
 
-Proyecto distribuido bajo Licencia Creative Commons de Atribución CC BY
 
 Siéntase libre de generar desarrollos derivados, compartir y construir robot, democraticemos la tecnología.
 
