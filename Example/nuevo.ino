@@ -15,7 +15,7 @@ const char* password = "olaquehace";
 // You need to create an email app password
 #define smtpServer            "smtp.gmail.com"
 #define emailSenderAccount    "proyectocamara190@gmail.com"
-#define emailSenderPassword   "aeel nktr ywjj cllw"
+#define emailSenderPassword   "aeelnktrywjjcllw"
 #define smtpServerPort        465
 #define emailSubject          "ESP32-CAM Photo Captured"
 #define emailRecipient        "proyectocamara190@gmail.com"
