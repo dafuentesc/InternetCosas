@@ -27,4 +27,5 @@ ESP_Mail_Client para envío de correos.
 Sistema de archivos LittleFS.
 Configuración del entorno de desarrollo para ESP32.
 
+contributors Pablo Acevedo.Jesus Martines.David Fuentes
 https://github.com/dafuentesc/Internetcosas/
