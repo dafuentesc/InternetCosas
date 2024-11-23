@@ -1,6 +1,7 @@
 /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
 
 README Proyecto Internet de las Cosas V 0.9
+¡Camara envio instantaneo a correo electronico!
 
 Proyecto: Captura y Envío de Fotos con ESP32-CAM
 Descripción
